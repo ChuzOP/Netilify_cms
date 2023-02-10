@@ -1,5 +1,5 @@
 backend:
-  name: Netlify_cms
+  name: github
   branch: main
 media_folder: "public/images"
 public_folder: "/images"
